@@ -84,3 +84,31 @@ ___
 
 
 # Audit scope
+
+
+[Unitas-Protocol @ 9ef6847c5437bfe5e178355f36f9ebb19c1d0468](https://github.com/xrex-inc/Unitas-Protocol/tree/9ef6847c5437bfe5e178355f36f9ebb19c1d0468)
+- [Unitas-Protocol/src/ERC20Token.sol](Unitas-Protocol/src/ERC20Token.sol)
+- [Unitas-Protocol/src/InsurancePool.sol](Unitas-Protocol/src/InsurancePool.sol)
+- [Unitas-Protocol/src/PoolBalances.sol](Unitas-Protocol/src/PoolBalances.sol)
+- [Unitas-Protocol/src/SwapFunctions.sol](Unitas-Protocol/src/SwapFunctions.sol)
+- [Unitas-Protocol/src/TimelockController.sol](Unitas-Protocol/src/TimelockController.sol)
+- [Unitas-Protocol/src/TokenManager.sol](Unitas-Protocol/src/TokenManager.sol)
+- [Unitas-Protocol/src/TokenPairs.sol](Unitas-Protocol/src/TokenPairs.sol)
+- [Unitas-Protocol/src/TypeTokens.sol](Unitas-Protocol/src/TypeTokens.sol)
+- [Unitas-Protocol/src/Unitas.sol](Unitas-Protocol/src/Unitas.sol)
+- [Unitas-Protocol/src/UnitasProxy.sol](Unitas-Protocol/src/UnitasProxy.sol)
+- [Unitas-Protocol/src/UnitasProxyAdmin.sol](Unitas-Protocol/src/UnitasProxyAdmin.sol)
+- [Unitas-Protocol/src/XOracle.sol](Unitas-Protocol/src/XOracle.sol)
+- [Unitas-Protocol/src/interfaces/IERC20Token.sol](Unitas-Protocol/src/interfaces/IERC20Token.sol)
+- [Unitas-Protocol/src/interfaces/IInsurancePool.sol](Unitas-Protocol/src/interfaces/IInsurancePool.sol)
+- [Unitas-Protocol/src/interfaces/IOracle.sol](Unitas-Protocol/src/interfaces/IOracle.sol)
+- [Unitas-Protocol/src/interfaces/ISwapFunctions.sol](Unitas-Protocol/src/interfaces/ISwapFunctions.sol)
+- [Unitas-Protocol/src/interfaces/ITokenManager.sol](Unitas-Protocol/src/interfaces/ITokenManager.sol)
+- [Unitas-Protocol/src/interfaces/ITokenPairs.sol](Unitas-Protocol/src/interfaces/ITokenPairs.sol)
+- [Unitas-Protocol/src/interfaces/ITypeTokens.sol](Unitas-Protocol/src/interfaces/ITypeTokens.sol)
+- [Unitas-Protocol/src/interfaces/IUnitas.sol](Unitas-Protocol/src/interfaces/IUnitas.sol)
+- [Unitas-Protocol/src/utils/AddressUtils.sol](Unitas-Protocol/src/utils/AddressUtils.sol)
+- [Unitas-Protocol/src/utils/Errors.sol](Unitas-Protocol/src/utils/Errors.sol)
+- [Unitas-Protocol/src/utils/ScalingUtils.sol](Unitas-Protocol/src/utils/ScalingUtils.sol)
+
+
